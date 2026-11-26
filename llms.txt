@@ -1,0 +1,24 @@
+# [Business Name]
+
+> [One sentence describing what your business does, who it serves, and where it operates.]
+
+## Services
+- [Service 1](https://example.com/services/service-1): [Short description and optional price or delivery range.]
+- [Service 2](https://example.com/services/service-2): [Short description and optional price or delivery range.]
+
+## Key Pages
+- [About](https://example.com/about): [Company background, expertise, and locations.]
+- [Services](https://example.com/services): [Complete service list and scope.]
+- [Case Studies](https://example.com/case-studies): [Selected client work and outcomes.]
+- [Contact](https://example.com/contact): [How to contact or request a quote.]
+
+## Policies
+- [Privacy Policy](https://example.com/privacy-policy)
+- [Terms](https://example.com/terms)
+
+## AI-Agent & Protocol Discovery
+- Canonical Website: https://example.com/
+- XML Sitemap: https://example.com/sitemap.xml
+- SEP-1649 MCP Server Card (draft format): https://example.com/.well-known/mcp/server-card.json
+
+Replace every bracketed value and example.com URL with accurate information for your website. Remove any section or link that does not apply.

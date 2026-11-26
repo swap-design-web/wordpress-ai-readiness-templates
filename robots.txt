@@ -1,0 +1,8 @@
+# Replace the sitemap URL and review the crawler policy for your site.
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+Sitemap: https://example.com/sitemap.xml
+
+# Content-Signal expresses preferences; robots.txt is not technical access control.
